@@ -12,3 +12,4 @@ public class BitwiseNotOperator {
 		 }
 		}
 
+// trial for git
